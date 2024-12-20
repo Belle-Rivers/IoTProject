@@ -2,7 +2,7 @@
     "sleepingHours": {
       "start": 22,
       "end": 11,
-      "response": "none",
+      "response": "no",
       "deactivation": "none",
       "deactivationcode": 3434,
       "codematch": "none"
